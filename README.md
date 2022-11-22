@@ -4,10 +4,10 @@
 
 
 <div id="badges" align="center">
-  <a href="your-telegram-URL">
+  <a href="https://t.me/msssspp">
     <img src="https://img.shields.io/badge/Telegram-black?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
   </a>
-  <a href="your-youtube-URL">
+  <a href="https://www.youtube.com/channel/UCPsuuSh7MJRreugjxO5tgSQ">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
@@ -16,7 +16,7 @@
 </div>
 <div id="heythere" align="center">
   <h1>
-  Приветик
+  Wassup
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
@@ -43,8 +43,12 @@ I am a student in MPT <img src="https://media.giphy.com/media/jXBwoFfPsCCoE/giph
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
   
-  ---
+---
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=msssspp&theme=black-ice&hide_border=true&locale=ru&date_format=j%2Fn%5B%2FY%5D)](https://git.io/streak-stats)
 
   [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=msssspp)](https://github.com/msssspp/github-readme-stats)
+  
+---
+### :boom: Achievements:
+[![trophy](https://github-profile-trophy.vercel.app/?username=msssspp)](https://github.com/msssspp/github-profile-trophy)
